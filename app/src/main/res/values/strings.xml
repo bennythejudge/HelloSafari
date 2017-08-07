@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Safari!</string>
+    <string name="name_hint">Please enter your name</string>
+    <string name="say_hello_button_label">Say Hello</string>
+    <string name="hi_button_label">Say Hi!</string>
+    <string name="time_button_label">Print current time</string>
+    <string name="timestamp_message">Timestamp will be here</string>
+</resources>
